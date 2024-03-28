@@ -1,0 +1,16 @@
+{
+    "id": "classementpvm",
+    "name": "ClassementPvM",
+    "description": "Classement PvM plugin for Azuriom",
+    "version": "1.3.2",
+    "url": "https:\/\/github.com\/Asafusa\/Plugin-ClassementPvM",
+    "authors": [
+        "Oximov"
+    ],
+    "azuriom_api": "1.0.0",
+    "providers": [
+        "\\Azuriom\\Plugin\\ClassementPvM\\Providers\\LauncherServiceProvider",
+        "\\Azuriom\\Plugin\\ClassementPvM\\Providers\\RouteServiceProvider"
+    ],
+    "apiId": 91
+}
